@@ -126,7 +126,8 @@ class App extends Component {
               height: '25px',
               textAlign: 'center',
               borderRadius: '5px',
-              marginLeft: '10px'
+              marginLeft: '10px',
+              marginBottom: '5px'
             }}>
           <span>
             {filterName}
